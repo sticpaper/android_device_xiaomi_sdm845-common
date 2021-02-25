@@ -96,3 +96,9 @@ telephony.lteOnCdmaDevice=1
 
 # Zygote
 persist.device_config.runtime_native.usap_pool_enabled=true
+
+# MiPush System
+ro.miui.ui.version.name=V12
+ro.miui.ui.version.code=10
+ro.miui.ui.version.code_time=1603036800
+
